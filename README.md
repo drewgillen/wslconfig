@@ -17,9 +17,6 @@ You can use a text editor that supports UTF-8 encoding and LF line endings to ed
 
 ### Memory
 The `memory` setting allows you to specify the amount of RAM allocated to your WSL2 environment. You can set the RAM usage in gigabytes. For example, to allocate 4GB of RAM, use the following format:
-
-### Memory
-The `memory` setting allows you to specify the amount of RAM allocated to your WSL2 environment. You can set the RAM usage in gigabytes. For example, to allocate 4GB of RAM, use the following format:
 memory=4GB
 
 ### Swap
